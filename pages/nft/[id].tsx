@@ -12,7 +12,7 @@ const NFTDropPage = () => {
   return (
     <div className="flex h-screen flex-col lg:grid lg:grid-cols-10">
       {/*  Left */}
-      <div className="lg:col-span-4 bg-gradient-to-br from-purple-500 to-pink-500">
+      <div className="lg:col-span-4 bg-gradient-to-br from-pink-500 to-purple-500">
         <div className="flex flex-col items-center justify-center py-2 lg:min-h-screen">
           <div className="bg-gradient-to-r from-sky-500 to-indigo-500 p-2 rounded-xl">
             <img

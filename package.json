@@ -9,10 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@sanity/image-url": "^1.0.1",
     "@thirdweb-dev/react": "^3.0.2",
     "@thirdweb-dev/sdk": "^3.0.2",
     "ethers": "^5.7.1",
     "next": "12.3.0",
+    "next-sanity": "^0.8.4",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
